@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact name="Setup Shell">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="root">
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/shell/DeviceInformationGet" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/shell/setup-debug.sh" />
+    </root>
+  </artifact>
+</component>
